@@ -1,2 +1,4 @@
-var shout = "I love you, too";
+function shout (string) {
 
+string = "I love you, too";
+}
