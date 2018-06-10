@@ -11,3 +11,7 @@ function whisper(string){
   
   return string
 }
+
+console.log(shout);
+
+console.log(whisper);
