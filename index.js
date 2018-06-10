@@ -22,3 +22,11 @@ console.log(string.toLowerCase())
 
 
 }
+
+
+function sayHiToGrandam(string){
+  
+  
+  
+  
+}
