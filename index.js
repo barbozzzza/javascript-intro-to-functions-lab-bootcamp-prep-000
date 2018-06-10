@@ -26,7 +26,7 @@ console.log(string.toLowerCase())
 
 function sayHiToGrandam(string){
   
-  
+  if (string.toLowerCase === s)
   
   
 }
