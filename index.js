@@ -1,4 +1,6 @@
 function shout (string) {
 
-string = "HELLOlearn";
+string = "HELLO";
+
+return string
 }
